@@ -1,6 +1,6 @@
 # Operaciones de Matrices , Vectores Y Numeros complejos
 
-Usando la libreira de numpy de python , ademas de otras librerias ccomo matplorlib, las cuales ayudan a no solamente entender las operaciones numericamnete sino tambien de una manera grafica.
+Se realizan operaciones usando la libreria de numpy de python ,al mismo tiempo otras como matplotlib, las cuales ayudan a entender las operaciones numericamnete y al mismo tiempo de una forma grafica.
 
 ## Operaciones
 - Adicion de Vectores Complejos
